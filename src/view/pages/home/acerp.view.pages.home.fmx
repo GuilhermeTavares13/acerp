@@ -1,0 +1,18 @@
+object PageHome: TPageHome
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 504
+  ClientWidth = 712
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object lytContainer: TLayout
+    Align = Client
+    Size.Width = 712.000000000000000000
+    Size.Height = 504.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+  end
+end
